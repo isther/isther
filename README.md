@@ -1,4 +1,7 @@
-### Hi there 👋
+<img align='right' src="https://metrics.lecoq.io/28251536?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&languages.skipped=28251536.github.io%2C&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai&config.animated=true" />
+
+
+
 
 - 🔭 I’m currently studying on Shanxi University
 - 💻 I work using:
