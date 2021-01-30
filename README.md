@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![](https://github-readme-stats.vercel.app/api?28251536=mayandev)
+
+![](https://github-readme-stats.vercel.app/api?28251536=mayandev&theme=dark)
