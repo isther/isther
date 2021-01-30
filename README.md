@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
 
 ![发呆's GitHub stats](https://github-readme-stats.vercel.app/api?username=28251536&show_icons=true&theme=tokyonight)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=28251536&repo=DataNote)](https://github.com/anuraghazra/github-readme-stats)
