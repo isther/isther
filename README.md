@@ -15,3 +15,5 @@
 ![发呆's GitHub stats](https://github-readme-stats.vercel.app/api?username=28251536&show_icons=true&theme=tokyonight)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=28251536&repo=DataNote&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=28251536&repo=28251536.github.io&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
