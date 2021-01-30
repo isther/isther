@@ -1,7 +1,4 @@
 ### Hi there 👋
-I love to talk on trending ⚡ technology ⚡,  I am a bit 😄 mad 😄 when I code. 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently studying on Shanxi University
 - 💻 I work using:
