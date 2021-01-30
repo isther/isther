@@ -13,8 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![](https://github-readme-stats.vercel.app/api?28251536=mayandev)
-
-![](https://github-readme-stats.vercel.app/api?28251536=mayandev&theme=dark)
-
-[![fadai's github stats](https://github-readme-stats.vercel.app/api/pin/?username=28251536&repo=awesome-bd-readme-profile&theme=dark)](https://github.com/28251536/awesome-bd-readme-profile)
+![](https://github-readme-stats.vercel.app/api?username=28251536)
