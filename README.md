@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
 
-![发呆's GitHub stats](https://github-readme-stats.vercel.app/api?username=28251536&show_icons=true&theme=tokyonight&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
+![发呆's GitHub stats](https://github-readme-stats.vercel.app/api?username=28251536&show_icons=true&theme=tokyonight)
