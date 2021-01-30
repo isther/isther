@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 
 
 ![](https://github-readme-stats.vercel.app/api?username=28251536&theme=dark)
-
-
-[![28251536's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=28251536)](https://github.com/anuraghazra/github-readme-stats)
