@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 
 ![发呆's GitHub stats](https://github-readme-stats.vercel.app/api?username=28251536&show_icons=true&theme=tokyonight)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=28251536&repo=DataNote)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=28251536&repo=DataNote&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=28251536&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
