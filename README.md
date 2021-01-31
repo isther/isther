@@ -12,3 +12,5 @@
 - 📏 I’m currently learning:
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
+
+[![Page Views Count](https://badges.toozhao.com/badges/01EXB9B7AS2FSHBSY81S3RPV7T/blue.svg)](https://badges.toozhao.com/stats/01EXB9B7AS2FSHBSY81S3RPV7T "Get your own page views count badge on badges.toozhao.com")
