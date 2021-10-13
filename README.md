@@ -1,18 +1,26 @@
-<img align='right' src="https://metrics.lecoq.io/28251536?template=classic&repositories=99&base.activity=0&base.community=0&base.repositories=0&pagespeed=1&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FShanghai" />
+<h1 align="center">Hi 👋, I'm Ther</h1>
+<h3 align="center">A gopher from China.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=28251536&label=Profile%20views&color=0e75b6&style=flat" alt="28251536" /> </p>
 
-📌
-# Hi, Welcome your visit🎉
-- 🔭 I’m currently studying on Shanxi University
+- 🌱 I’m currently learning **Golang、Docker**
 
-- 💻 I work using:
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
-![Go](https://img.shields.io/badge/-Go-00599C?style=plastic&logo=go)
+- 👨‍💻 All of my projects are available at [https://github.com/28251536](https://github.com/28251536)
 
-- 📏 I’m currently learning:
-![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
-![Go](https://img.shields.io/badge/-Go-00599C?style=plastic&logo=go)
+- 📝 I regularly write articles on [https://www.niuwx.cn](https://www.niuwx.cn)
 
-[![Page Views Count](https://badges.toozhao.com/badges/01EXB9B7AS2FSHBSY81S3RPV7T/blue.svg)](https://badges.toozhao.com/stats/01EXB9B7AS2FSHBSY81S3RPV7T "Get your own page views count badge on badges.toozhao.com")
+- 💬 Ask me about **nothing, because i am rookie**
+
+- 📫 How to reach me **28251536@qq.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="/https://www.niuwx.cn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.niuwx.cn" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
