@@ -2,7 +2,7 @@
 <h3 align="center">A gopher from China.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=28251536&label=Profile%20views&color=0e75b6&style=flat" alt="28251536" /> </p> 
-<p align="right"> <img src="https://wakatime.com/badge/user/4b53d00f-9d2e-4966-822f-ea918cbec9e7.svg" /> </p> 
+<p> <img src="https://wakatime.com/badge/user/4b53d00f-9d2e-4966-822f-ea918cbec9e7.svg" /> </p> 
 
 - 🌱 I’m currently learning **Golang、Docker**
 
