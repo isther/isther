@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=28251536&label=Profile%20views&color=0e75b6&style=flat" alt="28251536" /> </p>
 
+[![wakatime](https://wakatime.com/badge/user/4b53d00f-9d2e-4966-822f-ea918cbec9e7.svg)](https://wakatime.com/@4b53d00f-9d2e-4966-822f-ea918cbec9e7)
+
 - 🌱 I’m currently learning **Golang、Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/28251536](https://github.com/28251536)
