@@ -5,6 +5,8 @@
 
 [![Update gist with WakaTime stats](https://github.com/28251536/waka-box/actions/workflows/schedule.yml/badge.svg)](https://github.com/28251536/waka-box/actions/workflows/schedule.yml)
 
+[![Update gist with Steam Playtime](https://github.com/28251536/steam-box/actions/workflows/schedule.yml/badge.svg)](https://github.com/28251536/steam-box/actions/workflows/schedule.yml)
+
 - 🌱 I’m currently learning **Golang、Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/28251536](https://github.com/28251536)
