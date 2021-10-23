@@ -23,4 +23,4 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
  
  
-<script src="https://gist.github.com/28251536/3ab7b8665739c40a44ffdc4c5a4928b4.js"></script>
+<p align="left"> <script src="https://gist.github.com/28251536/3ab7b8665739c40a44ffdc4c5a4928b4.js"></script> </p>
