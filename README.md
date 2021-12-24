@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ther</h1>
 <h3 align="center">A gopher from China.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=28251536&label=Profile%20views&color=0e75b6&style=flat" alt="28251536" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=isther&label=Profile%20views&color=0e75b6&style=flat" alt="isther" /> </p> 
+
+[![Page Views Count](https://badges.toozhao.com/badges/01FQP76TP6ZBNKKYXKKWX9BGJ8/blue.svg)](https://badges.toozhao.com/stats/01FQP76TP6ZBNKKYXKKWX9BGJ8 "Get your own page views count badge on badges.toozhao.com")
 
 - 🌱 I’m currently learning **Golang、Docker**
 
-- 👨‍💻 All of my projects are available at [https://github.com/28251536](https://github.com/28251536)
+- 👨‍💻 All of my projects are available at [https://github.com/28251536](https://github.com/isther)
 
 - 📝 I regularly write articles on [https://www.niuwx.cn](https://www.niuwx.cn)
 
