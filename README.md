@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Golang、Docker**
+- 🌱 I’m currently learning **Golang、Docker、Nim**
 
 - 👨‍💻 All of my projects are available at [https://github.com/isther](https://github.com/isther)
 
