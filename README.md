@@ -15,6 +15,7 @@
 
 [![Page Views Count](https://badges.toozhao.com/badges/01FQP76TP6ZBNKKYXKKWX9BGJ8/blue.svg)](https://badges.toozhao.com/stats/01FQP76TP6ZBNKKYXKKWX9BGJ8 "Get your own page views count badge on badges.toozhao.com")
 <p align="center">
+<a href="https://wakatime.com/@4b53d00f-9d2e-4966-822f-ea918cbec9e7"><img src="https://wakatime.com/badge/user/4b53d00f-9d2e-4966-822f-ea918cbec9e7.svg" alt="Total time coded since Jan 30 2021" /></a>
 <img alt="Go" src="https://img.shields.io/badge/Go-FCEAE5?style=flat-square&logo=Go">
  <img alt="c++" src="https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=c%2b%2b">
 </p>
