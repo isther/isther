@@ -14,9 +14,7 @@
 
 - 📫 How to reach me **28251536@qq.com**
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+<p align="center">
+<img alt="Go" src="https://img.shields.io/badge/Go-FCEAE5?style=flat-square&logo=Go">
+ <img alt="c++" src="https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=c%2b%2b">
+</p>
