@@ -13,8 +13,8 @@
 
 - 📫 How to reach me **28251536@qq.com**
 
-<p align="center">
 [![Page Views Count](https://badges.toozhao.com/badges/01FQP76TP6ZBNKKYXKKWX9BGJ8/blue.svg)](https://badges.toozhao.com/stats/01FQP76TP6ZBNKKYXKKWX9BGJ8 "Get your own page views count badge on badges.toozhao.com")
+<p align="center">
 <img alt="Go" src="https://img.shields.io/badge/Go-FCEAE5?style=flat-square&logo=Go">
  <img alt="c++" src="https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=c%2b%2b">
 </p>
