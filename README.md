@@ -3,15 +3,15 @@
 
 
 
-- 🌱 I’m currently learning **Golang、Docker、Nim**
+- 🌱 I’m currently learning **Golang、Docker、Nim**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/isther](https://github.com/isther)
+- 👨‍💻 All of my projects are available at [https://github.com/isther](https://github.com/isther).
 
-- 📝 I regularly write articles on [https://www.niuwx.cn](https://www.niuwx.cn)
+- 📝 I regularly write articles on [https://www.niuwx.cn](https://www.niuwx.cn).
 
-- 💬 Ask me about **nothing, because i don't know anything**
+- 💬 Ask me about **nothing, because i don't know anything**.
 
-- 📫 How to reach me **isther@qq.com**
+- 📫 How to reach me **isther@qq.com**.
 
 [![Page Views Count](https://badges.toozhao.com/badges/01FQP76TP6ZBNKKYXKKWX9BGJ8/blue.svg)](https://badges.toozhao.com/stats/01FQP76TP6ZBNKKYXKKWX9BGJ8 "Get your own page views count badge on badges.toozhao.com")
 <p align="center">
