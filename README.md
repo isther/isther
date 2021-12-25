@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://www.niuwx.cn](https://www.niuwx.cn)
 
-- 💬 Ask me about **nothing, because i am rookie**
+- 💬 Ask me about **nothing, because i don't know anything**
 
 - 📫 How to reach me **isther@qq.com**
 
