@@ -17,9 +17,9 @@
  <a href="#!"><img src="https://img.shields.io/badge/Neovim-303030?style=flat-square&logo=Neovim" /></a>
 <a href="#!"><img alt="go" src="https://img.shields.io/badge/Go-FCEAE5?style=flat-square&logo=Go"></a>
 <a href="#!"><img alt="c++" src="https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=c%2b%2b"></a>
-<a href="#!"><img alt="c" src=" https://img.shields.io/badge/C-yellowgreen?style=flat-square&logo=C"></a>
+<a href="#!"><img alt="c" src="https://img.shields.io/badge/C-yellowgreen?style=flat-square&logo=C"></a>
 <a href="#!"><img alt="nim" src="https://img.shields.io/badge/Nim-blue?style=flat-square&logo=Nim"></a>
-<a href="#!"><img alt="lua" src=" https://img.shields.io/badge/Lua-informational?style=flat-square&logo=Lua"></a>
+<a href="#!"><img alt="lua" src="https://img.shields.io/badge/Lua-informational?style=flat-square&logo=Lua"></a>
 </p>
 ---
 <p align="center">  
