@@ -10,21 +10,14 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Main
-        uses: lowlighter/metrics@latest
-        with:
-          filename: main.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-
       - name: WakaTime
         uses: lowlighter/metrics@latest
         with:
           filename: wakatime.svg
-          base: ""
           token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           plugin_wakatime: yes
           plugin_wakatime_days: 365
-          plugin_wakatime_sections: time, languages, languages-graphs, editors, os
+          plugin_wakatime_sections: time, editors, editors-graphs, os, os-graphs
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
             
-
