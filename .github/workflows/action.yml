@@ -11,7 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Main
-        user: isther
+        uses: lowlighter/metrics@latest
+        with:
+          user: isther
           template: classic
           base: header
           filename: main.svg
