@@ -18,9 +18,9 @@
 
 <table border="0">
 <tr>
-<td><a href="#!"><img src="https://github-readme-stats.vercel.app/api?username=isther&count_private=true&show_icons=true&theme=dracula&line_height=30&hide_rank=true" /></a></td>
+<td><a href="#!"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ther&api_domain=wakapi.dev&theme=radical&layout=compact&hide_border=true" /></a></td>
 
-<td><a href="#!"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isther&exclude_repo=isther.github.io&langs_count=6&layout=compact&theme=cobalt" /></a></td>
+<td><a href="#!"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isther&exclude_repo=isther.github.io&langs_count=6&layout=compact&theme=cobalt&hide_border=true" /></a></td>
 </tr>
 </table>
 
