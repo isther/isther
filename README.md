@@ -1,25 +1,28 @@
 <h1 align="center">Hi 👋, I'm Ther</h1>
-<h3 align="center">A gopher from China.</h3>
 
 
-
-- 🌱 I’m currently learning **Golang、Docker**.
-
-- 👨‍💻 All of my projects are available at [https://github.com/isther](https://github.com/isther).
+- 🌱 I’m currently learning **Golang、Lua**.
 
 - 📝 I regularly write articles on [https://www.niuwx.cn](https://www.niuwx.cn).
 
-- 💬 Ask me about **nothing, because i don't know anything**.
-
 - 📫 How to reach me **isther@qq.com**.
 
+
 <p align="center">
- <a href="#!"><img src="https://img.shields.io/badge/Neovim-303030?style=flat-square&logo=Neovim" /></a>
-<a href="#!"><img alt="go" src="https://img.shields.io/badge/Go-FCEAE5?style=flat-square&logo=Go"></a>
-<a href="#!"><img alt="c++" src="https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=c%2b%2b"></a>
-<a href="#!"><img alt="c" src="https://img.shields.io/badge/C-yellowgreen?style=flat-square&logo=C"></a>
-<a href="#!"><img alt="nim" src="https://img.shields.io/badge/Nim-blue?style=flat-square&logo=Nim"></a>
-<a href="#!"><img alt="lua" src="https://img.shields.io/badge/Lua-informational?style=flat-square&logo=Lua"></a>
+<a href="#!"><img src="https://img.shields.io/badge/Editor-Neovim-303030?style=flat-square&logo=Neovim" /></a>
+&nbsp;
+<a href="#!"><img src="https://img.shields.io/badge/Goland-303030?style=flat-square&logo=Goland" /></a>
+&nbsp;
+<a href="#!"><img src="https://img.shields.io/badge/Browser-Chrome-303030?style=flat-square&logo=google-chrome" /></a>
+</p>
+
+
+<p align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isther&count_private=true&show_icons=true&theme=dracula)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isther&exclude_repo=isther.github.io&langs_count=6&layout=compact&theme=cobalt)](https://github.com/isther)
 </p>
 
 ---
