@@ -35,27 +35,3 @@ jobs:
           config_timezone: Asia/Shanghai
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-      - name: Habits
-        uses: lowlighter/metrics@latest
-        with:
-          base: ""
-          filename: habits.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          plugin_habits: yes
-          plugin_habits_facts: no
-          plugin_habits_charts: yes
-          config_timezone: Asia/Shanghai
-      - name: WakaTime
-        uses: lowlighter/metrics@latest
-        with:
-          base: ""
-          filename: wakatime.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          config_timezone: Asia/Shanghai
-          plugin_wakatime: yes
-          plugin_wakatime_days: 365
-          plugin_wakatime_sections: time, languages, languages-graphs, editors-graphs, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_wakatime_limit: 4                                  # Show 4 entries per graph
-          plugin_wakatime_url: http://wakapi.dev                  # Wakatime url endpoint
-          plugin_wakatime_user: ther
