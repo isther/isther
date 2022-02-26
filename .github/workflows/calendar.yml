@@ -1,5 +1,5 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
-name: Calendar
+name: Metrics
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
@@ -24,10 +24,7 @@ jobs:
           # Options
           user: isther
           template: classic
-          base: header, repositories
-          config_octicon: yes
+          base: ""
           config_timezone: Asia/Shanghai
-          config_twemoji: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          repositories_skipped: isther.github.io
