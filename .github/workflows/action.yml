@@ -17,7 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_wakatime: yes
-          plugin_wakatime_days: 365
+          plugin_wakatime_days: 30
           plugin_wakatime_sections: time, editors, editors-graphs, os, os-graphs
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
             
