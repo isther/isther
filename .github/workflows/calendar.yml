@@ -26,7 +26,6 @@ jobs:
           template: classic
           base: header, repositories
           config_octicon: yes
-          config_presets: @ther
           config_timezone: Asia/Shanghai
           config_twemoji: yes
           plugin_isocalendar: yes
