@@ -16,6 +16,7 @@ jobs:
           filename: wakatime.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
+          config_timezone: Asia/Shanghai
           plugin_wakatime: yes
           plugin_wakatime_days: 30
           plugin_wakatime_sections: time, editors, editors-graphs, os, os-graphs
