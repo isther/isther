@@ -16,14 +16,15 @@
 <a href="#!"><img src="https://img.shields.io/badge/Browser-Chrome-303030?style=flat-square&logo=google-chrome" /></a>
 </p>
 
+<table border="0">
+<tr>
+<td><a href="#!"><img src="https://github-readme-stats.vercel.app/api?username=isther&count_private=true&show_icons=true&theme=dracula&line_height=30&hide_rank=true" /></a></td>
 
-<p align="center">
+<td><a href="#!"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isther&exclude_repo=isther.github.io&langs_count=6&layout=compact&theme=cobalt" /></a></td>
+</tr>
+</table>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isther&count_private=true&show_icons=true&theme=dracula)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isther&exclude_repo=isther.github.io&langs_count=6&layout=compact&theme=cobalt)](https://github.com/isther)
-</p>
 
 ---
 
