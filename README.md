@@ -19,8 +19,8 @@
 <td><a href="#!"><img src="./lines.svg" ></a></td>
 <td><a href="#!"><img src="./calendar.svg" ></a></td>
 </tr>
-<tr>
-<td><a href="#!"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ther&api_domain=wakapi.dev&custom_title=Wakapi%20Week%20Stats&layout=compact&langs_count=6&theme=dracula"></a></td>
-<td><a href="#!"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isther&exclude_repo=isther.github.io&langs_count=6&layout=compact&theme=cobalt&hide_border=true" /></a></td>
-</tr>
 </table>
+
+<p align="center">
+<a href="#!"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isther&exclude_repo=isther.github.io&langs_count=6&layout=compact&theme=cobalt&hide_border=true" /></a>
+</p>
