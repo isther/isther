@@ -1,6 +1,5 @@
 <p align="left">  
 <a href="https://badges.toozhao.com/stats/01FQP76TP6ZBNKKYXKKWX9BGJ8"><img src="https://badges.toozhao.com/badges/01FQP76TP6ZBNKKYXKKWX9BGJ8/blue.svg" alt="Get your own page views count badge on badges.toozhao.com" /></a>
-<a href="https://wakatime.com/@4b53d00f-9d2e-4966-822f-ea918cbec9e7"><img src="https://wakatime.com/badge/user/4b53d00f-9d2e-4966-822f-ea918cbec9e7.svg" alt="Total time coded since Jan 30 2021" /></a>
 </p>
 
 
@@ -13,13 +12,6 @@
 </p>
 
 ---
-
-<table>
-<tr>
-<td><a href="#!"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isther&exclude_repo=isther.github.io&langs_count=6&layout=compact&theme=cobalt&hide_border=true" /></a></td>
-<td><a href="#!"><img src="./calendar.svg" ></a></td>
-</tr>
-</table>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-752%20hrs%2037%20mins-blue)
@@ -90,3 +82,11 @@ Windows                  1 hr 34 mins        █░░░░░░░░░░�
 
  Last Updated on 14/03/2022 06:27:07 UTC
 <!--END_SECTION:waka-->
+
+<table>
+<tr>
+<td><a href="#!"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isther&exclude_repo=isther.github.io&langs_count=6&layout=compact&theme=cobalt&hide_border=true" /></a></td>
+<td><a href="#!"><img src="./calendar.svg" ></a></td>
+</tr>
+</table>
+
