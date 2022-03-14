@@ -16,11 +16,11 @@
 
 <table>
 <tr>
-<td><a href="#!"><img src="./lines.svg" ></a></td>
+<td><a href="#!"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isther&exclude_repo=isther.github.io&langs_count=6&layout=compact&theme=cobalt&hide_border=true" /></a></td>
 <td><a href="#!"><img src="./calendar.svg" ></a></td>
 </tr>
 </table>
 
-<p align="center">
-<a href="#!"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isther&exclude_repo=isther.github.io&langs_count=6&layout=compact&theme=cobalt&hide_border=true" /></a>
-</p>
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
