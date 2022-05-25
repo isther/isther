@@ -17,7 +17,8 @@ jobs:
           IGNORED_REPOS: "isther.github.io, waka-box, steam-box"
           SHOW_PROJECTS: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
-          SHOW_LOC_CHART: "False"
+          SHOW_LOC_CHART: "True"
+          SYMBOL_VERSION: "3"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LINES_OF_CODE: "True"
           
