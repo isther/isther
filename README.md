@@ -9,7 +9,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-952%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-950%20hrs%2036%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16%20Thousand%20lines%20of%20code-blue)
 
@@ -74,5 +74,5 @@ Linux                    24 hrs 57 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 ![Chart not found](https://raw.githubusercontent.com/isther/isther/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/05/2022 11:16:08 UTC
+ Last Updated on 27/05/2022 18:50:22 UTC
 <!--END_SECTION:waka-->
