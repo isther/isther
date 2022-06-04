@@ -15,9 +15,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-981%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-986%20hrs%209%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19%20Thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -41,5 +41,5 @@ Linux                    31 hrs 13 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 03/06/2022 18:46:05 UTC
+ Last Updated on 04/06/2022 18:43:40 UTC
 <!--END_SECTION:waka-->
