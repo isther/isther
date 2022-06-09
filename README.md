@@ -4,7 +4,15 @@
 
 <table >
     <tr>
-        <td></td>
+        <td>
+        <p><img src="https://img.shields.io/badge/ArchLinux-666699?logo=archlinux&style=for-the-badge">
+        <img src="https://img.shields.io/badge/VsCode-3399CC?logo=VisualStudioCode&style=for-the-badge">
+        <img src="https://img.shields.io/badge/Neovim-339999?logo=Neovim&style=for-the-badge"></p>
+        <p><img src="https://img.shields.io/badge/Go-9cf?logo=Go&style=for-the-badge">
+        <img src="https://img.shields.io/badge/Lua-003399?logo=Lua&style=for-the-badge">
+        <img src="https://img.shields.io/badge/Rust-FF6666?logo=Rust&style=for-the-badge"></p>
+        <p href="https://wakatime.com/@4b53d00f-9d2e-4966-822f-ea918cbec9e7"><img src="https://wakatime.com/badge/user/4b53d00f-9d2e-4966-822f-ea918cbec9e7.svg" alt="Total time coded since Jan 30 2021" /></p>
+        </td>
         <td><a href="#!"><img src="./calendar.svg"  ></a></td>
     </tr>
     <tr>
