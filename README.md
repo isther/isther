@@ -5,8 +5,8 @@
 <table >
     <tr>
         <td>
-        <p><img src="https://img.shields.io/badge/ArchLinux-666699?logo=archlinux&style=for-the-badge">
-        <img src="https://img.shields.io/badge/VsCode-3399CC?logo=VisualStudioCode&style=for-the-badge">
+        <p><img src="https://img.shields.io/badge/ArchLinux-666699?logo=archlinux&style=for-the-badge"></p>
+        <p><img src="https://img.shields.io/badge/VsCode-3399CC?logo=VisualStudioCode&style=for-the-badge">
         <img src="https://img.shields.io/badge/Neovim-339999?logo=Neovim&style=for-the-badge"></p>
         <p><img src="https://img.shields.io/badge/Go-9cf?logo=Go&style=for-the-badge">
         <img src="https://img.shields.io/badge/Lua-003399?logo=Lua&style=for-the-badge">
