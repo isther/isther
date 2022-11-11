@@ -5,9 +5,7 @@
 <table >
     <tr>
         <td>
-        <p><img src="https://img.shields.io/badge/Mac-666699?logo=Macos&style=for-the-badge"></p>
-        <p><img src="https://img.shields.io/badge/Neovim-339999?logo=Neovim&style=for-the-badge">
-        <img src="https://img.shields.io/badge/VsCode-3399CC?logo=VisualStudioCode&style=for-the-badge"></p>
+        <p><img src="https://img.shields.io/badge/Neovim-339999?logo=Neovim&style=for-the-badge"></p>
         <p><img src="https://img.shields.io/badge/Go-9cf?logo=Go&style=for-the-badge">
         <img src="https://img.shields.io/badge/Lua-003399?logo=Lua&style=for-the-badge">
         <img src="https://img.shields.io/badge/Rust-FF6666?logo=Rust&style=for-the-badge"></p>
