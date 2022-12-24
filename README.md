@@ -19,6 +19,10 @@
     </tr>
 </table>
 
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=isther&theme=nord&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 <!--START_SECTION:waka-->
