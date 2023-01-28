@@ -11,15 +11,11 @@
         <img src="https://img.shields.io/badge/Rust-FF6666?logo=Rust&style=for-the-badge">
         <img src="https://img.shields.io/badge/Lua-003399?logo=Lua&style=for-the-badge"></p>
         </td>
-        <td><a href="#!"><img src="./calendar.svg"  ></a></td>
-    </tr>
-    <tr>
-    <td><a><img src="https://github-readme-stats.vercel.app/api?username=isther&include_all_commits=true&show_icons=true&hide_border=true&theme=dracula"/></a></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isther&layout=compact&hide_border=true&theme=onedark&hide=javascript,html,css"/></td>
+        <td><a><img src="https://github-readme-stats.vercel.app/api?username=isther&include_all_commits=true&show_icons=true&hide_border=true&theme=dracula"/></a></td>
     </tr>
 </table>
 
-
+![](./profile-3d-contrib/profile-gitblock.svg.svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=isther&theme=nord&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 

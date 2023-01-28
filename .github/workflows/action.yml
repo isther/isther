@@ -1,20 +1,24 @@
-# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
-name: Readme
+name: GitHub-Profile-3D-Contrib
+
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "30 18 * * *"}]
-  # Lines below let you run workflow manually and on each commit
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
   workflow_dispatch:
+
 jobs:
-  github-metrics:
+  build:
     runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
     steps:
-      - name: Calendar
-        uses: lowlighter/metrics@latest
-        with:
-          base: ""
-          filename: calendar.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          config_timezone: Asia/Shanghai
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACTION_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "generated"
+          git push
